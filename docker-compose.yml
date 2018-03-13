@@ -1,0 +1,17 @@
+version: '2'
+services:
+  samba:
+    image: dperson/samba
+    entrypoint:
+    - samba.sh
+    - -u
+    - "www;www"
+    - -s
+    - "public;/share;yes;no;no;all;none"
+    ports:
+    - 139:139
+    - 445:445
+    volumes:
+    - /opt/smb.conf:/etc/samba/smb.conf
+    - /opt/data/:/share
+    restart: unless-stopped
