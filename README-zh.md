@@ -28,3 +28,18 @@
 点击 "创建" 按钮:
 
 ![](http://7xppwd.com1.z0.glb.clouddn.com/FvNLK0j6Z4Lg9H0hRt5tQ5yFgIyb.png)
+
+## 贡献者
+
+| **提交次数** | **贡献者** | 
+| --- | --- |
+| 3 | [Black-Hole](https://github.com/BlackHole1) |
+
+## 作者
+
+**Black-Hole**
+
+* Email：158blackhole@gmail.com
+* Blog：[http://bugs.cc](http://bugs.cc)
+* WeiBo：[http://weibo.com/comelove](http://weibo.com/comelove)
+* Twitter：[https://twitter.com/Free_BlackHole](https://twitter.com/Free_BlackHole)

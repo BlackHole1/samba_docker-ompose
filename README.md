@@ -28,3 +28,18 @@ Copy docker-compose.yml and rancher-compose.yml to rancher:
 Click "Cretae" button:
 
 ![](http://7xppwd.com1.z0.glb.clouddn.com/FvNLK0j6Z4Lg9H0hRt5tQ5yFgIyb.png)
+
+## Contributing
+
+| **Commits** | **Contributor** | 
+| --- | --- |
+| 3 | [Black-Hole](https://github.com/BlackHole1) |
+
+## Author
+
+**Black-Hole**
+
+* Email：158blackhole@gmail.com
+* Blog：[http://bugs.cc](http://bugs.cc)
+* WeiBo：[http://weibo.com/comelove](http://weibo.com/comelove)
+* Twitter：[https://twitter.com/Free_BlackHole](https://twitter.com/Free_BlackHole)
